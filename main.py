@@ -78,3 +78,5 @@ if __name__ == '__main__':
     ex = Suprematism()
     ex.show()
     sys.exit(app.exec())
+
+# доделанная программа
